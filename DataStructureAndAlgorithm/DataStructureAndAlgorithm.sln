@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataStructure", "DataStructure\DataStructure.csproj", "{E2E29F48-B366-44D1-AE52-786A58FD303C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algorithm", "Algorithm\Algorithm.csproj", "{6591DC36-84C0-4996-9E78-4DACAF4CEBDD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E2E29F48-B366-44D1-AE52-786A58FD303C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2E29F48-B366-44D1-AE52-786A58FD303C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2E29F48-B366-44D1-AE52-786A58FD303C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2E29F48-B366-44D1-AE52-786A58FD303C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6591DC36-84C0-4996-9E78-4DACAF4CEBDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6591DC36-84C0-4996-9E78-4DACAF4CEBDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6591DC36-84C0-4996-9E78-4DACAF4CEBDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6591DC36-84C0-4996-9E78-4DACAF4CEBDD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
